@@ -63,7 +63,7 @@ img {
 
 .header {
   grid-area: header;
-  background: linear-gradient(135deg, #8844ee, #b07dfb);
+  background: linear-gradient(135deg, #44eec3, #195501);
   padding: 30px;
   display: grid;
   grid-template-columns: 1fr auto;
